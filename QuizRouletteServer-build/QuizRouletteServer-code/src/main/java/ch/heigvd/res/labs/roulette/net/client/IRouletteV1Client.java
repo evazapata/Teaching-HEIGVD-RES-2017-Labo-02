@@ -15,7 +15,7 @@ public interface IRouletteV1Client {
    * Establishes a connection with the server, given its IP address or DNS name
    * and its port.
    *
-   * @param server the IP address or DNS name of the servr
+   * @param server the IP address or DNS name of the server
    * @param port the TCP port on which the server is listening
    * @throws java.io.IOException
    */
